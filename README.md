@@ -20,4 +20,5 @@ Written in Go. A simple WebSocket server for signalling implemented using
 * `./video-chat-app` to run the backend server on `:8000`
 
 
-
+[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
